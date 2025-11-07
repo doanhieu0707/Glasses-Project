@@ -1,1 +1,1 @@
-Bài tập 2 - ReactJS
+<h1>Bài tập 2 - ReactJS</h1>
